@@ -20,7 +20,7 @@ body {
 }
 
 #demo {
-	color: pink;
+	color: yellow;
 }
 
 h2 {
@@ -36,7 +36,8 @@ h2 {
 #myARTICLE {
   border: 5px solid coral;
   animation: mymove 5s infinite;
-  padding: 10px 25px 10px 25px
+  padding: 10px 25px 10px 25px;
+  background-color: rgba(192,192,192,0.3);
 }
 
 @keyframes mymove {

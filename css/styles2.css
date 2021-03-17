@@ -1,0 +1,9 @@
+.player {
+	width: 300px;
+	height: 450px;
+}
+#achtergrond {
+	background-image: url(../images/190130-nacbreda.jpg);
+	color: white;
+	font-family: 'Bebas Neue', cursive;
+}
