@@ -1,0 +1,48 @@
+* { margin: 0;}
+
+body {
+	background-image: url(../images/16.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+#h1nac {
+  	color: white;
+ 	margin-left: 20px;
+	background-image: url(../images/190130-nacbreda.jpg);
+	margin-right: 20px;
+	font-family: 'Bebas Neue', cursive;
+}
+
+.orange {
+	background-color: orange;
+}
+
+#demo {
+	color: pink;
+}
+
+h2 {
+	color: white;
+}
+
+
+.nac {
+	width:350px;
+	height:350px;
+}
+
+#myARTICLE {
+  border: 5px solid coral;
+  animation: mymove 5s infinite;
+  padding: 10px 25px 10px 25px
+}
+
+@keyframes mymove {
+  50% {border-color: lightblue;}
+}
+
+ .text {
+ color: white;
+ }
